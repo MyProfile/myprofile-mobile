@@ -1,0 +1,15 @@
+{
+  "name": "MyWall",
+  "description": "MyProfile public wall feed.",
+  "launch_path": "/index.html",
+  "fullscreen": "true",
+  "icons": {
+    "128": "/resources/icons/myprofile-logo.png"
+  },
+  "developer": {
+    "name": "MyProfile Project",
+    "url": "http://myprofile-project.org"
+  },
+  "default_locale": "en",
+  "type": "web"
+}
